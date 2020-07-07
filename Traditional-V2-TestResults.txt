@@ -1,0 +1,189 @@
+Task: 1, Test Name: Check main logo visibility, DOM Id: IMG____9, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check search box visibility, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check menu bar visibility, DOM Id: DIV__mainmenu__15, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check wishlist visibility, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check cart number visibility, DOM Id: STRONG____50, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check open search box visibility, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check profile visibility, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check cart visibility, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check filters visibility, DOM Id: filter_col, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check big shoe image visibility, DOM Id: DIV__topbanner__188, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check grid icon visibility, DOM Id: I__tiviewgrid__203, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check list icon visibility, DOM Id: I__tiviewlist__205, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check add to wishlist visibility, DOM Id: I__tiheart__226, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check similar shoes visibility, DOM Id: I__ticontrols__230, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check add to cart visibility, DOM Id: I__tishopping__234, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check show filter button visibility, DOM Id: ti-filter, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Fail
+Task: 1, Test Name: Check apply filters button visibility, DOM Id: filterBtn, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check first shoe visibility, DOM Id: FIGURE____214, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check about us visibility, DOM Id: A____426, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check FAQ visibility, DOM Id: A____428, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check help visibility, DOM Id: A____430, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check my account visibility, DOM Id: A____432, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check blog visibility, DOM Id: A____434, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check contacts visibility, DOM Id: A____436, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check address visibility, DOM Id: LI____441, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check email visibility, DOM Id: LI____444, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check email box visibility, DOM Id: email_newsletter, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check main logo visibility, DOM Id: IMG____9, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check search box visibility, DOM Id: DIV__customsear__41, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check menu bar visibility, DOM Id: DIV__mainmenu__15, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check wishlist visibility, DOM Id: A__wishlist__52, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check cart number visibility, DOM Id: STRONG____50, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check open search box visibility, DOM Id: A__btnsearchm__59, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check profile visibility, DOM Id: A__accesslink__56, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check cart visibility, DOM Id: A__cartbt__49, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check filters visibility, DOM Id: filter_col, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check big shoe image visibility, DOM Id: DIV__topbanner__188, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check grid icon visibility, DOM Id: I__tiviewgrid__203, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check list icon visibility, DOM Id: I__tiviewlist__205, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check add to wishlist visibility, DOM Id: I__tiheart__226, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check similar shoes visibility, DOM Id: I__ticontrols__230, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check add to cart visibility, DOM Id: I__tishopping__234, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check show filter button visibility, DOM Id: ti-filter, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Fail
+Task: 1, Test Name: Check apply filters button visibility, DOM Id: filterBtn, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check first shoe visibility, DOM Id: FIGURE____214, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check about us visibility, DOM Id: A____426, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check FAQ visibility, DOM Id: A____428, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check help visibility, DOM Id: A____430, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check my account visibility, DOM Id: A____432, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check blog visibility, DOM Id: A____434, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check contacts visibility, DOM Id: A____436, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check address visibility, DOM Id: LI____441, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check email visibility, DOM Id: LI____444, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check email box visibility, DOM Id: email_newsletter, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check main logo visibility, DOM Id: IMG____9, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check search box visibility, DOM Id: DIV__customsear__41, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check menu bar visibility, DOM Id: DIV__mainmenu__15, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check wishlist visibility, DOM Id: A__wishlist__52, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check cart number visibility, DOM Id: STRONG____50, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check open search box visibility, DOM Id: A__btnsearchm__59, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check profile visibility, DOM Id: A__accesslink__56, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check cart visibility, DOM Id: A__cartbt__49, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check filters visibility, DOM Id: filter_col, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check big shoe image visibility, DOM Id: DIV__topbanner__188, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check grid icon visibility, DOM Id: I__tiviewgrid__203, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check list icon visibility, DOM Id: I__tiviewlist__205, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check add to wishlist visibility, DOM Id: I__tiheart__226, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check similar shoes visibility, DOM Id: I__ticontrols__230, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check add to cart visibility, DOM Id: I__tishopping__234, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check show filter button visibility, DOM Id: ti-filter, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Fail
+Task: 1, Test Name: Check apply filters button visibility, DOM Id: filterBtn, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check first shoe visibility, DOM Id: FIGURE____214, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check about us visibility, DOM Id: A____426, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check FAQ visibility, DOM Id: A____428, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check help visibility, DOM Id: A____430, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check my account visibility, DOM Id: A____432, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check blog visibility, DOM Id: A____434, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check contacts visibility, DOM Id: A____436, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check address visibility, DOM Id: LI____441, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check email visibility, DOM Id: LI____444, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check email box visibility, DOM Id: email_newsletter, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Check main logo visibility, DOM Id: IMG____9, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check search box visibility, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check menu bar visibility, DOM Id: DIV__mainmenu__15, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check wishlist visibility, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check cart number visibility, DOM Id: STRONG____50, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check open search box visibility, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check profile visibility, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check cart visibility, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check filters visibility, DOM Id: filter_col, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check big shoe image visibility, DOM Id: DIV__topbanner__188, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check grid icon visibility, DOM Id: I__tiviewgrid__203, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check list icon visibility, DOM Id: I__tiviewlist__205, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check add to wishlist visibility, DOM Id: I__tiheart__226, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check similar shoes visibility, DOM Id: I__ticontrols__230, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check add to cart visibility, DOM Id: I__tishopping__234, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check show filter button visibility, DOM Id: ti-filter, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check apply filters button visibility, DOM Id: filterBtn, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check first shoe visibility, DOM Id: FIGURE____214, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check about us visibility, DOM Id: A____426, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check FAQ visibility, DOM Id: A____428, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check help visibility, DOM Id: A____430, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check my account visibility, DOM Id: A____432, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check blog visibility, DOM Id: A____434, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check contacts visibility, DOM Id: A____436, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check address visibility, DOM Id: LI____441, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check email visibility, DOM Id: LI____444, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check email box visibility, DOM Id: email_newsletter, Browser: chrome, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check main logo visibility, DOM Id: IMG____9, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check search box visibility, DOM Id: DIV__customsear__41, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check menu bar visibility, DOM Id: DIV__mainmenu__15, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check wishlist visibility, DOM Id: A__wishlist__52, Browser: edge, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check cart number visibility, DOM Id: STRONG____50, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check open search box visibility, DOM Id: A__btnsearchm__59, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check profile visibility, DOM Id: A__accesslink__56, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check cart visibility, DOM Id: A__cartbt__49, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check filters visibility, DOM Id: filter_col, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check big shoe image visibility, DOM Id: DIV__topbanner__188, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check grid icon visibility, DOM Id: I__tiviewgrid__203, Browser: edge, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check list icon visibility, DOM Id: I__tiviewlist__205, Browser: edge, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check add to wishlist visibility, DOM Id: I__tiheart__226, Browser: edge, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check similar shoes visibility, DOM Id: I__ticontrols__230, Browser: edge, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check add to cart visibility, DOM Id: I__tishopping__234, Browser: edge, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check show filter button visibility, DOM Id: ti-filter, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check apply filters button visibility, DOM Id: filterBtn, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check first shoe visibility, DOM Id: FIGURE____214, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check about us visibility, DOM Id: A____426, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check FAQ visibility, DOM Id: A____428, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check help visibility, DOM Id: A____430, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check my account visibility, DOM Id: A____432, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check blog visibility, DOM Id: A____434, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check contacts visibility, DOM Id: A____436, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check address visibility, DOM Id: LI____441, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check email visibility, DOM Id: LI____444, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check email box visibility, DOM Id: email_newsletter, Browser: edge, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check main logo visibility, DOM Id: IMG____9, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check search box visibility, DOM Id: DIV__customsear__41, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check menu bar visibility, DOM Id: DIV__mainmenu__15, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check wishlist visibility, DOM Id: A__wishlist__52, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check cart number visibility, DOM Id: STRONG____50, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check open search box visibility, DOM Id: A__btnsearchm__59, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check profile visibility, DOM Id: A__accesslink__56, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check cart visibility, DOM Id: A__cartbt__49, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check filters visibility, DOM Id: filter_col, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check big shoe image visibility, DOM Id: DIV__topbanner__188, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check grid icon visibility, DOM Id: I__tiviewgrid__203, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check list icon visibility, DOM Id: I__tiviewlist__205, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check add to wishlist visibility, DOM Id: I__tiheart__226, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check similar shoes visibility, DOM Id: I__ticontrols__230, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check add to cart visibility, DOM Id: I__tishopping__234, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Fail
+Task: 1, Test Name: Check show filter button visibility, DOM Id: ti-filter, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check apply filters button visibility, DOM Id: filterBtn, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check first shoe visibility, DOM Id: FIGURE____214, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check about us visibility, DOM Id: A____426, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check FAQ visibility, DOM Id: A____428, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check help visibility, DOM Id: A____430, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check my account visibility, DOM Id: A____432, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check blog visibility, DOM Id: A____434, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check contacts visibility, DOM Id: A____436, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check address visibility, DOM Id: LI____441, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check email visibility, DOM Id: LI____444, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check email box visibility, DOM Id: email_newsletter, Browser: firefox, Viewport: 784x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Check main logo visibility, DOM Id: IMG____9, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Pass
+Task: 1, Test Name: Check search box visibility, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check menu bar visibility, DOM Id: DIV__mainmenu__15, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Pass
+Task: 1, Test Name: Check wishlist visibility, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check cart number visibility, DOM Id: STRONG____50, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check open search box visibility, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Pass
+Task: 1, Test Name: Check profile visibility, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Pass
+Task: 1, Test Name: Check cart visibility, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Pass
+Task: 1, Test Name: Check filters visibility, DOM Id: filter_col, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Pass
+Task: 1, Test Name: Check big shoe image visibility, DOM Id: DIV__topbanner__188, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Pass
+Task: 1, Test Name: Check grid icon visibility, DOM Id: I__tiviewgrid__203, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check list icon visibility, DOM Id: I__tiviewlist__205, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check add to wishlist visibility, DOM Id: I__tiheart__226, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check similar shoes visibility, DOM Id: I__ticontrols__230, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check add to cart visibility, DOM Id: I__tishopping__234, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check show filter button visibility, DOM Id: ti-filter, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Pass
+Task: 1, Test Name: Check apply filters button visibility, DOM Id: filterBtn, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Pass
+Task: 1, Test Name: Check first shoe visibility, DOM Id: FIGURE____214, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Pass
+Task: 1, Test Name: Check about us visibility, DOM Id: A____426, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check FAQ visibility, DOM Id: A____428, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check help visibility, DOM Id: A____430, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check my account visibility, DOM Id: A____432, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check blog visibility, DOM Id: A____434, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check contacts visibility, DOM Id: A____436, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Fail
+Task: 1, Test Name: Check address visibility, DOM Id: LI____441, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Pass
+Task: 1, Test Name: Check email visibility, DOM Id: LI____444, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Pass
+Task: 1, Test Name: Check email box visibility, DOM Id: email_newsletter, Browser: chrome, Viewport: 500x700, Device: mobile, Status: Pass
